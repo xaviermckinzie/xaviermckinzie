@@ -35,13 +35,13 @@ I help organizations modernize their UCaaS/CCaaS platforms and enterprise collab
 - [UCaaS Health Check](#) → API-driven MOS/Jitter/Packet Loss reporting (CSV + HTML)  
 - [TCO Calculator](#) → Pre-sales ROI/TCO analysis tool for UCaaS migrations  
 - [Architecture Templates](#) → Reusable Visio / Mermaid collaboration diagrams  
-
+<!--
 ---
 
 ## 📊 GitHub Stats
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaviermckinzie&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xaviermckinzie&layout=compact)  
-
+-->
 ---
 
 ## 🌐 Connect
