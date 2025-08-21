@@ -34,9 +34,9 @@ I help organizations modernize their UCaaS/CCaaS platforms and enterprise collab
 ---
 
 ## 📌 Featured Projects
-- [UCaaS Health Check](#) → API-driven MOS/Jitter/Packet Loss reporting (CSV + HTML)  
-- [TCO Calculator](#) → Pre-sales ROI/TCO analysis tool for UCaaS migrations  
-- [Architecture Templates](#) → Reusable Visio / Mermaid collaboration diagrams  
+- [UCaaS Health Check](https://github.com/xaviermckinzie/pre-sales-collab-starters/tree/main/ucaas-healthcheck) → API-driven MOS/Jitter/Packet Loss reporting (CSV + HTML)  
+- [TCO Calculator](https://github.com/xaviermckinzie/pre-sales-collab-starters/tree/main/tco-calculator) → Pre-sales ROI/TCO analysis tool for UCaaS migrations  
+- [Architecture Templates](https://github.com/xaviermckinzie/pre-sales-collab-starters/tree/main/arch-templates) → Reusable Visio / Mermaid collaboration diagrams  
 <!--
 ---
 
@@ -47,5 +47,7 @@ I help organizations modernize their UCaaS/CCaaS platforms and enterprise collab
 ---
 
 ## 🌐 Connect
+<!--
 📧 [xavier@sandxdesigns.com](mailto:xavier@sandxdesigns.com)  
+-->
 🔗 [LinkedIn](https://linkedin.com/in/xaviermckinzie)  
