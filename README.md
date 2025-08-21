@@ -2,7 +2,7 @@
 ![GitHub Banner](./assets/bannerv2.png)
 -->
 
-# Hi, I’m Xavier 👋  
+# Hi, I’m Xavier 👋🏿 
 
 **Solutions Architect | Pre-Sales Engineering | Collaboration Technologies**  
 
