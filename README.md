@@ -1,4 +1,4 @@
-![GitHub Banner](./assets/banner.png)
+![GitHub Banner](./assets/bannerv2.png)
 
 # Hi, I’m Xavier 👋  
 
